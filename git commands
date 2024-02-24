@@ -1,0 +1,25 @@
+## git init for intializing the repository in local
+    * git config --global usse.name ""
+    * git config --global user.eami ""
+    * git init
+    * mkdir for creating a directory
+      md for cli
+      and touch for linux
+      code for power shell to create file
+      cd change directory  
+    * ls 
+    * git add . for add all files or git add file name
+    * git commit -m ""  
+    * git log  or git log --oneline  
+    * git log --graph --all
+    * git status
+    * git branch f2 or git checkout -b f2
+      or git checkout master or git switch master
+    * git branch -d f2
+    * git clone remote url
+       * git fetch and git diff origin/master or changes
+       * git merger origin/master feature branch
+                         or 
+       * git  pull
+    * git push
+    * pull request
